@@ -2,7 +2,6 @@
 ****************************************************************
 This repository contains code for a rudimentary shell program.
 The shell program is written assuming a client-server model.
-****************************************************************
 
 -- General Instructions :
 --- make
@@ -36,7 +35,6 @@ After succesfull authentication, client by default is in its user_name directory
 		 fput <File_Name> <user name> <group name>
 		 Output: Message displayed to client, "File Created" and in actual also File gets created into the file system with specified user and group name.
 		 Mandatory Condition: (i)User initiating the fput command must be the owner of directory. (ii) User must do cd to the desired directory for file creation
-		 
 		 Variant 2: (if file is already created)
 		 fput <File_Name> <content to be written into the file>
 		 Output: Message displayed to client, "Content Written".
