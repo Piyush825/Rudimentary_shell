@@ -1,7 +1,7 @@
 
 ****************************************************************
-This repository contains code for a rudimentary shell program.
-The shell program is written assuming a client-server model.
+> This repository contains code for a rudimentary shell program.
+> The shell program is written assuming a client-server model.
 
 * **General Instructions** :
     * make
