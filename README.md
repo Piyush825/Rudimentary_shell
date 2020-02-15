@@ -3,10 +3,10 @@
 This repository contains code for a rudimentary shell program.
 The shell program is written assuming a client-server model.
 
-+**General Instructions** :
-    +make
-    +thread_fork must be running continuously.
-    +Each client would need to run the client binary to access the rudementary shell. 
+* **General Instructions** :
+    * make
+    * thread_fork must be running continuously.
+    * Each client would need to run the client binary to access the rudementary shell. 
 
 ****************************************************************
 *WORKING AND SUPPORTED COMMANDS :* 
