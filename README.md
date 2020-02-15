@@ -4,9 +4,9 @@
 > The shell program is written assuming a client-server model.
 
 * **General Instructions** :
-    * make
-    * thread_fork must be running continuously.
-    * Each client would need to run the client binary to access the rudementary shell. 
+    * `make`
+    * `./thread_fork` must be running continuously.`
+    * `./file_client` Each client would need to run the client binary to access the rudementary shell.` 
 
 ****************************************************************
 *WORKING AND SUPPORTED COMMANDS :* 
